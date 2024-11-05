@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iyubeijo.github.io/GiQ/sitemap_index.txt
+Sitemap: https://iyubeijo.github.io/JDO/sitemap_index.txt
+Sitemap: https://iyubeijo.github.io/MQS/sitemap_index.txt
+Sitemap: https://iyubeijo.github.io/dMI/sitemap_index.txt
